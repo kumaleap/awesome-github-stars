@@ -39,6 +39,16 @@
 * [android_effects](https://github.com/harism/android_effects)  openGl 2.0 
 * [emojicon](https://github.com/rockerhieu/emojicon) 让android快速支持Emoj
 * [BezierCurve](https://github.com/skypanda100/BezierCurve) 贝塞尔翻页效果
+* [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) Android键盘面板冲突 布局闪动处理方案
+* [AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher) 键盘监控
+* [WJMagicCurveView](https://github.com/wingjay/WJMagicCurveView)
+* [Shuffle](https://github.com/Meetic/Shuffle) 类似于探探的滑动删除
+* [ByeBurger](https://github.com/githubwing/ByeBurger)极其简便的快速实现滑动隐藏标题栏和导航栏
+* [android-PageFlip](https://github.com/eschao/android-PageFlip) 3d翻页效果
+* [Croller](https://github.com/harjot-oberai/Croller)
+* [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android) 仿微信的侧滑删除
+* [ClassifyView](https://github.com/AlphaBoom/ClassifyView) 仿掌阅书架的效果
+* [sensey](https://github.com/nisrulz/sensey) 各种android 处理器
 
 ### 微信小程序
 
@@ -62,6 +72,19 @@
 * [PinchImageView](https://github.com/boycy815/PinchImageView) 手势控制Image
 * [AndroidSwipeableCardStack](https://github.com/wenchaojiang/AndroidSwipeableCardStack) 侧滑消除卡片
 * [CircleLoadingView](https://github.com/jhw-dev/CircleLoadingView) 仿IOS下载时的logo效果
+* [FillDrawable](https://github.com/noties/FillDrawable) 各种形状图标的进度显示效果
+* [overscroll-decor](https://github.com/EverythingMe/overscroll-decor)仿ios的边际反馈效果
+* [RecyclerView-FastScroll](https://github.com/timusus/RecyclerView-FastScroll)快速滑动选择
+* [3dTagCloudAndroid](https://github.com/misakuo/3dTagCloudAndroid)标签云效果
+* [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) 类似探探的滑动删除
+* [GradientLayout](https://github.com/csdodd/GradientLayout) 渐变效果
+* [CardStackView](https://github.com/loopeer/CardStackView)
+* [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView) RecyclerView侧滑菜单，Item拖拽等
+* [RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap) 可以实现类似于ViewPager的效果
+* [TagViewGroup](https://github.com/shellljx/TagViewGroup)仿小红书图片标签Group
+* [ArcLayout](https://github.com/florent37/ArcLayout) **重点看下实现方式**
+* [Roll3DImageView](https://github.com/zhangyuChen1991/Roll3DImageView) 有意思的效果
+* ​
 
 ### TextView
 
@@ -71,8 +94,17 @@
 * [SuperTextView](https://github.com/lygttpod/SuperTextView) 有意思的超级TextView
 * [TextSurface](https://github.com/elevenetc/TextSurface) Text动画
 * [CountdownView](https://github.com/iwgang/CountdownView) 倒计时控件
+* [AnimTextView](https://github.com/z56402344/AnimTextView)
+* [HTextView](https://github.com/hanks-zyh/HTextView) 有意思的一些Text动画
+* [AlignTextView](https://github.com/androiddevelop/AlignTextView)字体对齐
+* [TimeSinceTextView](https://github.com/damien5314/TimeSinceTextView) 简化时间显示的控件
 
 ### LayoutManager
 
 * [vlayout](https://github.com/alibaba/vlayout)-阿里的RecyclerView做复杂布局效果
 * [VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager)
+* [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager)
+* [HiveLayoutManager](https://github.com/Chacojack/HiveLayoutManager)蜂窝布局
+* [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
+* [excelPanel](https://github.com/zhouchaoyuan/excelPanel)
+* ​
