@@ -49,6 +49,10 @@
 * [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android) 仿微信的侧滑删除
 * [ClassifyView](https://github.com/AlphaBoom/ClassifyView) 仿掌阅书架的效果
 * [sensey](https://github.com/nisrulz/sensey) 各种android 处理器
+* [objectbox-java](https://github.com/objectbox/objectbox-java) 数据库框架
+* [FlipsideCamera](https://github.com/andyb129/FlipsideCamera) 前置和后置摄像头在同一页面展示
+* [Grav](https://github.com/glomadrian/Grav) 粒子效果
+* [cropiwa](https://github.com/steelkiwi/cropiwa) 照片裁剪库-效果很棒
 
 ### 微信小程序
 
@@ -84,7 +88,9 @@
 * [TagViewGroup](https://github.com/shellljx/TagViewGroup)仿小红书图片标签Group
 * [ArcLayout](https://github.com/florent37/ArcLayout) **重点看下实现方式**
 * [Roll3DImageView](https://github.com/zhangyuChen1991/Roll3DImageView) 有意思的效果
-* ​
+* [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)
+* [expanding-collection](https://github.com/Ramotion/expanding-collection) Ramotion出品的效果很棒的UI设计
+* [expanding-collection-android](https://github.com/Ramotion/expanding-collection-android) Ramotion出品的效果很棒的UI设计
 
 ### TextView
 
