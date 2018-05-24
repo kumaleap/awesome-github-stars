@@ -9,7 +9,7 @@
 
 ### 框架
 
-* [Flutter-比ReactNative高效的跨平台移动端框架](https://github.com/flutter/flutter)   **Stars：**[![GitHub stars](https://img.shields.io/github/stars/flutter/flutter.svg?style=plastic&label=Star)](https://github.com/flutter/flutter)
+* [Flutter](https://github.com/flutter/flutter)-比ReactNative高效的跨平台移动端框架
 * [ARouter](https://github.com/alibaba/ARouter) 页面路由
 * [VirtualAPK](https://github.com/didi/VirtualAPK) 滴滴的热加载框架
 * [RePlugin](https://github.com/Qihoo360/RePlugin) 热更新-插件化开发
@@ -22,10 +22,10 @@
 
 ### 区块链
 
-* [BigchainDb](https://github.com/bigchaindb/bigchaindb) 区块链数据库     **Stars：**[![GitHub stars](https://img.shields.io/github/stars/bigchaindb/bigchaindb.svg?style=plastic&label=Star)](https://github.com/bigchaindb/bigchaindb)
-* [EIPS](https://github.com/ethereum/EIPs) 以太坊加密原理-             **Stars：**[![GitHub stars](https://img.shields.io/github/stars/ethereum/EIPs.svg?style=plastic&label=Star)](https://github.com/ethereum/EIPs)
-* [bips](https://github.com/bitcoin/bips) 比特币加密原理            **Stars：**[![GitHub stars](https://img.shields.io/github/stars/bitcoin/bips.svg?style=plastic&label=Star)](https://github.com/bitcoin/bips)
-* [bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) 比特币钱包                       **Stars：**[![GitHub stars](https://img.shields.io/github/stars/bitcoin-wallet/bitcoin-wallet.svg?style=plastic&label=Star)](https://github.com/bitcoin-wallet/bitcoin-wallet)
+* [BigchainDb](https://github.com/bigchaindb/bigchaindb) 区块链数据库
+* [EIPS](https://github.com/ethereum/EIPs) 以太坊加密原理
+* [bips](https://github.com/bitcoin/bips) 比特币加密原理
+* [bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) 比特币钱包
 * [bitcoinj](https://github.com/bitcoinj/bitcoinj)-开发bitcoin的java库
 * [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) 区块链技术资料汇总
 * [go-ethereum](https://github.com/ethereum/go-ethereum)
