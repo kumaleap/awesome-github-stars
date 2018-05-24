@@ -10,6 +10,15 @@
 ### 框架
 
 * [Flutter-比ReactNative高效的跨平台移动端框架](https://github.com/flutter/flutter)   **Stars：**[![GitHub stars](https://img.shields.io/github/stars/flutter/flutter.svg?style=plastic&label=Star)](https://github.com/flutter/flutter)
+* [ARouter](https://github.com/alibaba/ARouter) 页面路由
+* [VirtualAPK](https://github.com/didi/VirtualAPK) 滴滴的热加载框架
+* [RePlugin](https://github.com/Qihoo360/RePlugin) 热更新-插件化开发
+* [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) 快速开发RecyclerView
+* [DDComponentForAndroid](https://github.com/luojilab/DDComponentForAndroid) 研究下 封装自己的框架
+* [glide-transformations](https://github.com/wasabeef/glide-transformations) 处理glide加载图片以后展示不同的形状
+* [lottie-android](https://github.com/airbnb/lottie-android) AE动效加载库
+* [butterknife](https://github.com/JakeWharton/butterknife)
+* [anko](https://github.com/Kotlin/anko) kotlin快速开发框架
 
 ### 区块链
 
@@ -23,6 +32,18 @@
 * [qtum](https://github.com/qtumproject/qtum) 量子链
 * [ganache](https://github.com/trufflesuite/ganache)
 * [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
+
+### 权限管理
+
+* [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
+* [HiPermission](https://github.com/yewei02538/HiPermission) 6.0运行时权限
+* [AndPermission](https://github.com/yanzhenjie/AndPermission) 6.0运行时权限
+
+### 图片压缩
+
+* [CompressTools-Android](https://github.com/lexluthors/CompressTools-Android)
+* [Tiny](https://github.com/Sunzxyong/Tiny) 图片压缩框架
+* [Luban](https://github.com/Curzibn/Luban) 仿微信的压缩算法-基本差别不大
 
 ### 其他
 
@@ -53,13 +74,38 @@
 * [FlipsideCamera](https://github.com/andyb129/FlipsideCamera) 前置和后置摄像头在同一页面展示
 * [Grav](https://github.com/glomadrian/Grav) 粒子效果
 * [cropiwa](https://github.com/steelkiwi/cropiwa) 照片裁剪库-效果很棒
+* [Matisse](https://github.com/zhihu/Matisse) 很漂亮的图片选择库
+* [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) 算法总结-leetCode
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) 撒花效果
+* [TakePhoto](https://github.com/crazycodeboy/TakePhoto) 图片选择库
+* [MaterialShadows](https://github.com/harjot-oberai/MaterialShadows)
+* [Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) 相机快速开发框架
+* [live-wallpaper](https://github.com/jinkg/live-wallpaper) openGl 动态壁纸
+* [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) 表情键盘
+* [AndroidDragSelect-SimulateGooglePhoto](https://github.com/weidongjian/AndroidDragSelect-SimulateGooglePhoto) 仿谷歌的滑动选择框架
+* [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) 下拉刷新
+* [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) 下拉刷新
+* [FFmpegAndroid](https://github.com/WangShuo1143368701/FFmpegAndroid) 学习FFmpeg
+* [ImageTrans](https://github.com/wufenglincheng/ImageTrans) 仿微信的图片查看动画
+* [ImageWatcher](https://github.com/byc4426/ImageWatcher) 仿微信的图片查看动画
+* [FastBle](https://github.com/Jasonchenlijian/FastBle) 蓝牙的快速开发框架
+* [wechat_jump_game](https://github.com/wangshub/wechat_jump_game) 微信跳一跳的辅助程序
+* [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) 日期、地址等滑轮选择
+* [Alerter](https://github.com/Tapadoo/Alerter) 漂亮的提示库
+* [ResumeSample](https://github.com/geekcompany/ResumeSample) 简历模板
+* [PhotoPicker](https://github.com/donglua/PhotoPicker) 图片选择库-使用效果一般
+* [android-saripaar](https://github.com/ragunathjawahar/android-saripaar) 注解校验
+* [ImmersionBar](https://github.com/gyf-dev/ImmersionBar) 沉浸式处理库
+* [Aria](https://github.com/AriaLyy/Aria) 一键下载，处理了多线程等
+* [MultipleTheme](https://github.com/dersoncheng/MultipleTheme) 主题切换
+* [Android-skin-support](https://github.com/ximsfei/Android-skin-support) 换肤
+* [ImagePicker](https://github.com/jeasonlzy/ImagePicker) 仿微信的图片选择库
+* [WeChatHook](https://github.com/chendd/WeChatHook) 基于xposed hook微信的摇一摇
 
 ### 微信小程序
 
 * [awesome-wepy](https://github.com/aben1188/awesome-wepy)资料汇总
 * [wepy](https://github.com/Tencent/wepy)小程序开发框架
-* []()
-* []()
 
 ### View
 
@@ -91,8 +137,18 @@
 * [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)
 * [expanding-collection](https://github.com/Ramotion/expanding-collection) Ramotion出品的效果很棒的UI设计
 * [expanding-collection-android](https://github.com/Ramotion/expanding-collection-android) Ramotion出品的效果很棒的UI设计
+* [Oblique](https://github.com/akshay2211/Oblique) 斜切的布局效果
+* [AlphaTabsIndicator](https://github.com/yingLanNull/AlphaTabsIndicator)高仿微信的底部导航栏
+* [CameraView](https://github.com/CJT2325/CameraView) 仿微信的拍照页面
+* [DividerDrawable](https://github.com/nekocode/DividerDrawable) 分割线
+* [LongShadow](https://github.com/florent37/LongShadow)
+* [rclayout](https://github.com/GcsSloop/rclayout) 圆角布局
+* [WaveView](https://github.com/john990/WaveView) 波浪效果
+* [WaveView](https://github.com/gelitenight/WaveView) 波浪效果
+* [ScalingLayout](https://github.com/iammert/ScalingLayout)
+* [CreditSesameRingView](https://github.com/HotBitmapGG/CreditSesameRingView) 仿支付宝信用值控件
 
-### TextView
+###  TextView
 
 * [MaterialBadgeTextView](https://github.com/matrixxun/MaterialBadgeTextView)  红点
 * [ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView) 查看更多
@@ -113,4 +169,5 @@
 * [HiveLayoutManager](https://github.com/Chacojack/HiveLayoutManager)蜂窝布局
 * [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
 * [excelPanel](https://github.com/zhouchaoyuan/excelPanel)
-* ​
+* [cardslider-android](https://github.com/Ramotion/cardslider-android)
+* [RecyclerCoverFlow](https://github.com/ChenLittlePing/RecyclerCoverFlow) 旋转木马效果
