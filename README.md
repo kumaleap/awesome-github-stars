@@ -171,3 +171,8 @@
 * [excelPanel](https://github.com/zhouchaoyuan/excelPanel)
 * [cardslider-android](https://github.com/Ramotion/cardslider-android)
 * [RecyclerCoverFlow](https://github.com/ChenLittlePing/RecyclerCoverFlow) 旋转木马效果
+
+### ARCore
+
+* [WebARonARCore](https://github.com/google-ar/WebARonARCore) web实现ARCore
+* [arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk) （https://developers.google.com/ar/）
