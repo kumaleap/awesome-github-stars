@@ -32,6 +32,7 @@
 * [qtum](https://github.com/qtumproject/qtum) 量子链
 * [ganache](https://github.com/trufflesuite/ganache)
 * [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
+* [web-wallet](https://github.com/nebulasio/web-wallet)星云链钱包
 
 ### 权限管理
 
