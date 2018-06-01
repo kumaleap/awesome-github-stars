@@ -150,6 +150,7 @@
 * [ScalingLayout](https://github.com/iammert/ScalingLayout)
 * [CreditSesameRingView](https://github.com/HotBitmapGG/CreditSesameRingView) 仿支付宝信用值控件
 * [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) 有意思的下拉刷新
+* [WhiteBoard](https://github.com/dsbGenius/WhiteBoard) 画板库
 
 ###  TextView
 
