@@ -33,6 +33,7 @@
 * [ganache](https://github.com/trufflesuite/ganache)
 * [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
 * [web-wallet](https://github.com/nebulasio/web-wallet)星云链钱包
+* [[ js-ipfs-api](https://github.com/ipfs/js-ipfs-api) ipfs js接口
 
 ### 权限管理
 
